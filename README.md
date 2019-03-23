@@ -419,7 +419,7 @@ activity_show_constraint_layout_.xml:
         app:layout_constraintTop_toBottomOf="@+id/textView4" />
 </android.support.constraint.ConstraintLayout>
 ```
-![ConstraintLayout](result/ConstraintLayout.png)
+![](result/constraintLayout.png)
 ##### Show_TableLayout_Activity:
 &emsp;&emsp;实现表格布局。  
 
@@ -518,4 +518,4 @@ activity_show_table_layout_.xml:
     </TableRow>
 </TableLayout>
 ```
-![TableLayout](result/TableLayout.png)
+![](result/tableLayout.png)
